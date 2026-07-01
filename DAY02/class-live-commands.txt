@@ -1,0 +1,90 @@
+   1  history
+    2  clear
+    3  history
+    4  man history
+    5  history --help
+    6  clear
+    7  who
+    8  mkdir DevOps
+    9  ls
+   10  mkdir kkdevops
+   11  mkdir Monitoring
+   12  ls
+   13  mkdir kkdevops
+   14  mkdir -v Laptop
+   15  ls
+   16  clear
+   17  mkdir nellore Tirupathi Bangalore
+   18  ls
+   19  ls DevOps/
+   20  mkdir DevOps/Linux
+   21  ls DevOps/
+   22   ls Laptop/
+   23  mkdir Laptop/DELL/NEW
+   24  mkdir -p Laptop/DELL/NEW
+   25  ls Laptop/
+   26  ls Laptop/DELL/
+   27  clear
+   28  ls
+   29  mkdir "kk devops"
+   30  ls
+   31  pwd
+   32   clear
+   33  tree
+   34  'pws
+   35  pws
+   36  sudo yum install tree -y
+   37  clear
+   38  ls
+   39  tree
+   40  pwd
+   41  cd Laptop/
+   42  pwd
+   43  cd DELL/
+   44  pwd
+   45  cd NEW/
+   46  pwd
+   47  cd ~
+   48  pwd
+   49  cd -
+   50  pwd
+   51  cd ../..
+   52  pwd
+   53  cd ..
+   54  pwd
+   55  clear
+   56  tree
+   57  cd Laptop/DELL/NEW
+   58  pwd
+   59  cd -
+   60  pwd
+   61  cd -
+   62  clear
+   63  cd ~
+   64  clear
+   65  ls -lrth
+   66  clear
+   67  tree
+   68  rmdir Bangalore/
+   69  tree
+   70  rmdir DevOps/
+   71  rm -rf DevOps/
+   72  tree
+   73  rm -rf nellore/
+   74  tree
+   75  clear
+   76  touch monitor.sh
+   77  touch jenkins_bkp.sh
+   78  ls
+   79  mv jenkins_bkp.sh Monitoring/
+   80  ls
+   81  ls Monitoring/
+   82  tree
+   83  tree Monitoring/
+   84  clear
+   85  ls
+   86  tree
+   87  rm -rf Laptop/DELL/NEW
+   88  tree
+   89  clear
+   90  history
